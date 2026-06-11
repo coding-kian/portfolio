@@ -1,2 +1,2 @@
-# website-info
-Deploy to info.kian.ltd.
+# website-consult
+Static GitHub Pages site for `info.kian.ltd`.
